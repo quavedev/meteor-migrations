@@ -1,5 +1,7 @@
 # quave:migrations
 
+### MIGRATED TO https://github.com/quavedev/meteor-packages/tree/main/migrations
+
 A simple migration system for [Meteor](http://meteor.com) supporting up/downwards migrations and command line usage. 
 
 Compatible with Meteor 3.0 and forward.
